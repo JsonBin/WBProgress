@@ -119,7 +119,6 @@ static NSTimeInterval duration = 2.f; // 动画时长
         }
     });
     dispatch_resume(_timer);
-    
 }
 
 #pragma mark -- 初始化两个layer
