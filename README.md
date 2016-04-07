@@ -8,4 +8,6 @@ OC编写的一款 进度指示器  当前完成的进度  可自定义颜色设�
     [self.proview showProgressViewInView:self.view];
     
     
-    
+效果图
+
+ ![gif](https://github.com/JsonBin/WBProgress/raw/master/progress.gif)    
