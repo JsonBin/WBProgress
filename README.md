@@ -12,4 +12,4 @@ OC编写的一款 进度指示器  当前完成的进度  可自定义颜色设�
     
 #效果图
 ==========
-![gif](raw.githubusercontent.com/JsonBin/WBProgress/master/WBProgress/progress.gif "效果图")    
+![gif](https://github.com/JsonBin/WBProgress/raw/master/WBProgress/progress.gif "效果图")    
